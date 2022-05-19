@@ -1,6 +1,5 @@
 ### Olá, seja bem-vindo !!!
 
-- 🔭 Hoje trabalho com front-end 
 - 🌱 Estudando Javascript 
 - 📫 E-mail: guiiroupe@gmail.com
 
