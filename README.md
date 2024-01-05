@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo !!!
 
-- 🌱 Estudando Javascript 
+- 🌱 Estudando Java
 - 📫 E-mail: guiiroupe@gmail.com
 
   <div align="center">
