@@ -51,15 +51,6 @@ Tenho interesse em Segurança da Informação, Detecção e Resposta a Incidente
 
 ---
 
-## 📈 Estatísticas
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
-
 ## 📚 Atualmente Estudando
 
 - Segurança da Informação
