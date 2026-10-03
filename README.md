@@ -16,6 +16,12 @@ Tenho interesse em Segurança da Informação, Detecção e Resposta a Incidente
 
 ---
 
+## 🏆 Certificações
+
+- **Microsoft Certified:** Security, Compliance, and Identity Fundamentals (SC-900)
+
+---
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens
@@ -29,6 +35,9 @@ Tenho interesse em Segurança da Informação, Detecção e Resposta a Incidente
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20Sentinel-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Carbon%20Black-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=securityscorecard&logoColor=white" />
 </p>
 
