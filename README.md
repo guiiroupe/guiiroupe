@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou Guilherme Roupe 👋</h1>
 
 <p align="center">
-🎓 Estudante de Sistemas de Informação na UNIRIO <br>
-🔐 Estagiário de Cibersegurança <br>
-🚀 Entusiasta de Segurança da Informação, Blue Team e Tecnologia
+  🎓 Estudante de Sistemas de Informação na UNIRIO <br>
+  🔐 Estagiário de Cibersegurança <br>
+  🚀 Entusiasta de Segurança da Informação, Blue Team e Tecnologia
 </p>
 
 ---
@@ -21,7 +21,7 @@ Tenho interesse em Segurança da Informação, Detecção e Resposta a Incidente
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,mysql,r" />
 </p>
 
 ### Segurança e Infraestrutura
